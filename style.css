@@ -1,0 +1,14 @@
+.superhead{
+    font-size: 164%;
+    font-family: 'Poppins', sans-serif;
+}
+.normaltext{
+    font-family: 'Open Sans', sans-serif;
+}
+.link{
+    font-family: 'Open Sans', sans-serif;
+}
+button{
+    border: black solid;
+    background-color: lightblue;
+}
